@@ -1,1 +1,1 @@
-export * from "./declarations/lib/index";
+export * from "./declarations/src/index";
