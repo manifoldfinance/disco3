@@ -8,6 +8,9 @@
   "main": "dist/disco3-design-system.cjs.js",
   "module": "dist/disco3-design-system.esm.js",
   "typings": "dist/disco3-design-system.cjs.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "directories": {
     "src": "src",
     "test": "__tests__",
