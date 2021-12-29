@@ -1,6 +1,6 @@
 {
   "name": "@disco3/design-system",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "",
   "author": "Manifold Finance <ops@manifoldfinance.com>",
   "homepage": "https://github.com/manifoldfinance/disco3#readme",
@@ -22,7 +22,6 @@
     "dev": "yarn preconstruct dev",
     "release": "preconstruct build",
     "build": "rollup -c",
-    "publish":"yarn build && np",
     "lint": "npx prettier --write ''**/*.ts'"
   },
   "bugs": {
