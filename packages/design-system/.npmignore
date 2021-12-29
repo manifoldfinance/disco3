@@ -1,0 +1,7 @@
+src/
+.github/
+build/
+__tests__/
+test/
+tests/
+__snapshot__/
